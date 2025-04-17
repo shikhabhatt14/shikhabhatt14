@@ -1,4 +1,4 @@
-Hello!
+# Hello! 👋🏻 I am Shikha Bhatt!
 
 I am Shikha Bhatt. With 10+ years of experience as a Software Engineer, I have good experience Java Backend Development and handing a team of 12 members.
 
