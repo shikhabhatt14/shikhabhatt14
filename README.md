@@ -1,3 +1,6 @@
+![MastHead](https://raw.githubusercontent.com/shikhabhatt14/shikhabhatt14/main/header.svg)
+
+
 # Hello! 👋🏻 I am Shikha Bhatt!
 
 I am Shikha Bhatt. With 10+ years of experience as a Software Engineer, I have good experience Java Backend Development and handing a team of 12 members.
@@ -53,3 +56,5 @@ Thought my primary skill set is Java, I can be seen playing with other programmi
 
 ![Shikha's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shikhabhatt14&theme=radical&exclude={exclude})
 ![Shikha's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shikhabhatt14&theme=radical&exclude={exclude})
+
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/shikhabhatt14/shikhabhatt14/main/snake.svg)
