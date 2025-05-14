@@ -1,7 +1,7 @@
 ![MastHead](https://raw.githubusercontent.com/shikhabhatt14/shikhabhatt14/main/header.png)
 # Hello! 👋🏻 I am Shikha Bhatt!
 
-I am Shikha Bhatt. With 10+ years of experience as a Software Engineer, I have good experience Java Backend Development and handing a team of 12 members.
+With 10+ years of experience as a Software Engineer, I have good experience Java Backend Development and handing a team of 12 members.
 
 Thought my primary skill set is Java, I can be seen playing with other programming languages, UI development, cloud technologies such as AWS and AI models as well.
 
