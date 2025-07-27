@@ -53,6 +53,8 @@ https://shikhabhatt14.github.io/ShikhaBhatt/
 ### Artificial Intelligence
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#) [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 
+## Read my Articles at
+https://medium.com/@shikhabhatt14
 
 ## GitHub Stats
 
